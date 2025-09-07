@@ -1,0 +1,5 @@
+{
+  "$schema": "https://dev.wix.com/wix-cli/schemas/wix-config.json",
+  "appId": "cbecafd3-82b3-4d43-8e2e-caa2cc5d1c80",
+  "projectId": "tailwind-test"
+}

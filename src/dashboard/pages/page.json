@@ -1,0 +1,5 @@
+{
+  "$schema": "https://dev.wix.com/wix-cli/schemas/dashboard-page.json",
+  "id": "1fe85a38-92a9-43bd-91f4-9861dde5b18a",
+  "title": "tailwind-test"
+}
