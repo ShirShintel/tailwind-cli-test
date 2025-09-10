@@ -1,0 +1,8 @@
+{
+  "id": "bc4460ef-ae1a-4ab8-84ae-ddcd7d10d2cf",
+  "description": "A button",
+  "editorElement": {
+    "selector": ".root",
+    "displayName": "Button"
+  }
+}
