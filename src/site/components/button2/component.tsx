@@ -1,5 +1,5 @@
 import React from "react";
-import "./tailwind.css";
+import "./style.css";
 
 type ButtonProps = React.ButtonHTMLAttributes<HTMLButtonElement>;
 
